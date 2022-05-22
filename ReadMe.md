@@ -1,0 +1,1 @@
+Guide to this project can be found here: https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/#our-example-project
