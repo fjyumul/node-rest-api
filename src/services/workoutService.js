@@ -1,7 +1,6 @@
 //This represents the workout model
 const Workout = require('../database/workout');
 const { v4: uuid } = require('uuid');
-const Workout = require('../database/workout');
 
 const getAllWorkouts = () => {
   try {
@@ -19,7 +18,6 @@ const getOneWorkout = (workoutId) => {
   } catch (error) {
     throw error;
   }
-
 };
 
 const createWorkout = (newWorkout) => {
